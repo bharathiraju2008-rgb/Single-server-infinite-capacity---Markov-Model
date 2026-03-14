@@ -18,10 +18,12 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 
 
 
+
 ## Experiment:
 
+<img width="623" height="358" alt="image" src="https://github.com/user-attachments/assets/55a5d1f6-acd3-4329-aeea-fa9136c5a943" />
 
- 
+
 ## Program :
 
 ~~~
